@@ -4,3 +4,5 @@ The model helps in the detection of ages and genders of individuals in a meeting
 The faces of persons are detected using the face_detection_model.
 The model.ipynb file helps in the detection of the genders and ages of persons.
 The dataset used for training is included in the text file Datasets.txt
+
+The faces in an uploded image is first detected and this detected faces in then used for the prediction of genders and ages.
